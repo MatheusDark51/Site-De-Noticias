@@ -1,0 +1,29 @@
+.BottonBar{
+    background-color: black;
+    color: white;
+    display: inline-flex;
+}
+
+.Catergorias ul{
+    margin-left: 20px;
+    padding: 25px;
+}
+.Catergorias li{
+    
+    margin-left: 5px;
+    margin-top: 10px;
+    list-style-type: none;
+    
+}
+.Catergorias a {
+    color: white;
+}
+.BottonText{
+    padding: 20px;
+    width: 50%;
+}
+
+.Mensagem_da_equipe{
+    padding: 20px;
+    width: 50%;
+}
